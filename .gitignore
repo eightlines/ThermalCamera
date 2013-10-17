@@ -1,0 +1,17 @@
+.DS_Store
+*.app
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+build/
+[Oo]bj/
+ipch/
+obj/
+Thumbs.db
+Desktop.ini
+bin/*
+!bin/data

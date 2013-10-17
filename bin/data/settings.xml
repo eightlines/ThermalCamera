@@ -1,0 +1,45 @@
+<Widget>
+    <Kind>2</Kind>
+    <Name>Use Dynamic Threshold</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Use Outline</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Hide Low Threshold</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Show Pixel IDs</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Show Lowest Pixel Temp</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Show Highest Pixel Temp</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Low Temp C</Name>
+    <Value>15.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>High Temp C</Name>
+    <Value>30.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Highlight Temp C</Name>
+    <Value>1.000000000</Value>
+</Widget>

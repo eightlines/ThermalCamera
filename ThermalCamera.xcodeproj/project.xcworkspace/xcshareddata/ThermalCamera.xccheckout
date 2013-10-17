@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9ACC6B2E-37A4-4DCC-A60B-6BD9BEDDE4E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ThermalCamera</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>085A342E-5243-4BFE-AA1E-F5F4AD893957</key>
+		<string>https://github.com/armadillu/ofxColorGradient.git</string>
+		<key>31134D41-F309-46B4-8D22-2E08F9780881</key>
+		<string>https://github.com/openframeworks/openFrameworks.git</string>
+		<key>E8CFF5CA-06FC-4F9B-A05C-026F5B4DA2F6</key>
+		<string>https://github.com/rezaali/ofxUI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>apps/myApps/ThermalCamera/ThermalCamera.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>085A342E-5243-4BFE-AA1E-F5F4AD893957</key>
+		<string>../../../../../addons/ofxColorGradient</string>
+		<key>31134D41-F309-46B4-8D22-2E08F9780881</key>
+		<string>../../../../..</string>
+		<key>E8CFF5CA-06FC-4F9B-A05C-026F5B4DA2F6</key>
+		<string>../../../../../addons/ofxUI</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/openframeworks/openFrameworks.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>31134D41-F309-46B4-8D22-2E08F9780881</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>085A342E-5243-4BFE-AA1E-F5F4AD893957</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxColorGradient</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E8CFF5CA-06FC-4F9B-A05C-026F5B4DA2F6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxUI</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>31134D41-F309-46B4-8D22-2E08F9780881</string>
+			<key>IDESourceControlWCCName</key>
+			<string>openFrameworks</string>
+		</dict>
+	</array>
+</dict>
+</plist>
