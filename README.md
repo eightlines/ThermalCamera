@@ -2,6 +2,7 @@ Panasonic Grid-EYE Thermal Imager
 =================================
 
 This openFrameworks script receives serial data from an Arduino to transmit thermal imagery data.
+![Example Thermal Output](https://raw.github.com/eightlines/ThermalCamera/documents/output-example.png)
 
 Required
 - Panasonic Grid-EYE (i2c)
